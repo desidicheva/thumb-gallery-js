@@ -1,2 +1,4 @@
 # thumb-gallery-js
-Image gallery with thumbnails built with JavaScript
+Javascript Project - Image gallery with thumbnails
+
+The images have to be in images folder or change the path of the images.
